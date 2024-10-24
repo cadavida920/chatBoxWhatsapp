@@ -1,0 +1,8 @@
+Bienvenido a Glow Store , Soy Sandra. Estaré encantada de ayudarte,
+elige  una de las opciones para continuar;
+
+1 - Tapete De Agua Sensorial Para Bebes
+2 - Libro De Estudio Con Sonido Para Ninos
+3 - Consultas 
+
+Opcion0 - salir

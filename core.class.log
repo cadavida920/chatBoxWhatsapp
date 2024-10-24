@@ -1,0 +1,192 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '573136262093@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB00FBAB7D71C44937A80',
+    participant: undefined
+  },
+  messageTimestamp: 1729787779,
+  pushName: 'Nancy Cubaque',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'glow store',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'glow store',
+  from: '573136262093'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9df46bf4-6486-479f-866f-e49a0a7c2da9',
+  keyword: 'key_f91023db-7714-405a-8462-f005f8074a72',
+  answer: 'Bienvenido a Glow Store , Soy Sandra. Estaré encantada de ayudarte,\n' +
+    'elige  una de las opciones para continuar;\n' +
+    '\n' +
+    '1 - Tapete De Agua Sensorial Para Bebes\n' +
+    '2 - Libro De Estudio Con Sonido Para Ninos\n' +
+    '3 - Consultas \n' +
+    '\n' +
+    'Opcion0 - salir',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'da4544265c051f3983b0277958bd4d04'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573136262093@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB08F3AA17EEF40E59775',
+    participant: undefined
+  },
+  messageTimestamp: 1729787792,
+  pushName: 'Nancy Cubaque',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '1',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '1',
+  from: '573136262093'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573136262093@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0E6A8548FD4FAA35560',
+    participant: undefined
+  },
+  messageTimestamp: 1729787821,
+  pushName: 'Nancy Cubaque',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'que mas informacion tienes ?',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'que mas informacion tienes ?',
+  from: '573136262093'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573136262093@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB07F5D76A206775056E4',
+    participant: undefined
+  },
+  messageTimestamp: 1729787868,
+  pushName: 'Nancy Cubaque',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'glow store',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'glow store',
+  from: '573136262093'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9df46bf4-6486-479f-866f-e49a0a7c2da9',
+  keyword: 'key_f91023db-7714-405a-8462-f005f8074a72',
+  answer: 'Bienvenido a Glow Store , Soy Sandra. Estaré encantada de ayudarte,\n' +
+    'elige  una de las opciones para continuar;\n' +
+    '\n' +
+    '1 - Tapete De Agua Sensorial Para Bebes\n' +
+    '2 - Libro De Estudio Con Sonido Para Ninos\n' +
+    '3 - Consultas \n' +
+    '\n' +
+    'Opcion0 - salir',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'da4544265c051f3983b0277958bd4d04'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573004254639@s.whatsapp.net',
+    fromMe: false,
+    id: '3A01064EF5398896FAF7',
+    participant: undefined
+  },
+  messageTimestamp: 1729788158,
+  pushName: '⠀',
+  broadcast: false,
+  message: Message {
+    conversation: 'Es por la esencia',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Es por la esencia',
+  from: '573004254639'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573004254639@s.whatsapp.net',
+    fromMe: false,
+    id: '3A2518F87501EFF95C98',
+    participant: undefined
+  },
+  messageTimestamp: 1729788164,
+  pushName: '⠀',
+  broadcast: false,
+  message: Message {
+    conversation: 'Y por qué se mk ma tiene a las carreras',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Y por qué se mk ma tiene a las carreras',
+  from: '573004254639'
+}

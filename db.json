@@ -1,0 +1,48 @@
+[
+  {
+    "ref": "ans_c8c786a0-f0b0-4d4b-aeb0-9eea5accb606",
+    "keyword": "key_b207d3fb-11a6-4ff8-9eea-27ced9b64afb",
+    "answer": "Bienvenido a Glow Store , Soy Sandra. Estaré encantada de ayudarte,\nelige  una de las opciones para continuar;\n\n1 - Tapete De Agua Sensorial Para Bebes\n2 - Libro De Estudio Con Sonido Para Ninos\n3 - Consultas \n\nOpcion0 - salir",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "4f77e2964890205882b293c93bba34fa",
+    "from": "573136262093"
+  },
+  {
+    "ref": "77e20ee1-0ba6-48f0-8230-f6d7d3be5531",
+    "keyword": "4f77e2964890205882b293c93bba34fa",
+    "answer": "2",
+    "options": {},
+    "from": "573136262093",
+    "refSerialize": "2294c3d08b53a6effa5df696a15b9d30"
+  },
+  {
+    "ref": "ans_82a86c96-86ee-4a48-be87-65937b241764",
+    "keyword": "key_0a783f34-5faa-43c7-ab90-1231b239c5e8",
+    "answer": "Libro De Estudio Con Sonido Para Ninos",
+    "options": {
+      "media": "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1220537/1726761073WhatsApp%20Image%202024-09-19%20at%2010.47.57%20AM.jpeg ",
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "9d1105dc87c78cac0e156af60d4028e3",
+    "from": "573136262093"
+  }
+]
