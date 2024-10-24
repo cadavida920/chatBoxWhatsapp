@@ -1,31 +1,27 @@
 [handleMsg]:  {
   key: {
-    remoteJid: '573136262093@s.whatsapp.net',
+    remoteJid: '573128477014@s.whatsapp.net',
     fromMe: false,
-    id: '3EB00FBAB7D71C44937A80',
+    id: '3A025AC96D1139627580',
     participant: undefined
   },
-  messageTimestamp: 1729787779,
-  pushName: 'Nancy Cubaque',
+  messageTimestamp: 1729802719,
+  pushName: 'Juan David Cadavid',
   broadcast: false,
   message: Message {
-    extendedTextMessage: ExtendedTextMessage {
-      text: 'glow store',
-      contextInfo: [ContextInfo],
-      inviteLinkGroupTypeV2: 0
-    },
+    conversation: 'Glow store',
     messageContextInfo: MessageContextInfo {
       deviceListMetadata: [DeviceListMetadata],
       deviceListMetadataVersion: 2,
       messageSecret: [Uint8Array]
     }
   },
-  body: 'glow store',
-  from: '573136262093'
+  body: 'Glow store',
+  from: '573128477014'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_9df46bf4-6486-479f-866f-e49a0a7c2da9',
-  keyword: 'key_f91023db-7714-405a-8462-f005f8074a72',
+  ref: 'ans_c535f30b-7260-440e-b34a-2bbae3cc5c0d',
+  keyword: 'key_0208db57-1cdf-4807-b2f5-6a07b17b0a70',
   answer: 'Bienvenido a Glow Store , Soy Sandra. Estaré encantada de ayudarte,\n' +
     'elige  una de las opciones para continuar;\n' +
     '\n' +
@@ -46,24 +42,20 @@
     keyword: {},
     callback: true
   },
-  refSerialize: 'da4544265c051f3983b0277958bd4d04'
+  refSerialize: 'bac160827d3716a5c171f1ec0ffc08dc'
 }
 [handleMsg]:  {
   key: {
-    remoteJid: '573136262093@s.whatsapp.net',
+    remoteJid: '573128477014@s.whatsapp.net',
     fromMe: false,
-    id: '3EB08F3AA17EEF40E59775',
+    id: '3AEE3C5C0713FA5D42FA',
     participant: undefined
   },
-  messageTimestamp: 1729787792,
-  pushName: 'Nancy Cubaque',
+  messageTimestamp: 1729802724,
+  pushName: 'Juan David Cadavid',
   broadcast: false,
   message: Message {
-    extendedTextMessage: ExtendedTextMessage {
-      text: '1',
-      contextInfo: [ContextInfo],
-      inviteLinkGroupTypeV2: 0
-    },
+    conversation: '1',
     messageContextInfo: MessageContextInfo {
       deviceListMetadata: [DeviceListMetadata],
       deviceListMetadataVersion: 2,
@@ -71,61 +63,99 @@
     }
   },
   body: '1',
-  from: '573136262093'
+  from: '573128477014'
 }
 [handleMsg]:  {
   key: {
-    remoteJid: '573136262093@s.whatsapp.net',
+    remoteJid: '573332814840@s.whatsapp.net',
     fromMe: false,
-    id: '3EB0E6A8548FD4FAA35560',
+    id: '3A6A69A667884C2948DE',
     participant: undefined
   },
-  messageTimestamp: 1729787821,
-  pushName: 'Nancy Cubaque',
+  messageTimestamp: 1729802932,
+  pushName: 'Glow Store',
   broadcast: false,
   message: Message {
-    extendedTextMessage: ExtendedTextMessage {
-      text: 'que mas informacion tienes ?',
-      contextInfo: [ContextInfo],
-      inviteLinkGroupTypeV2: 0
-    },
+    conversation: 'Hola',
     messageContextInfo: MessageContextInfo {
       deviceListMetadata: [DeviceListMetadata],
       deviceListMetadataVersion: 2,
       messageSecret: [Uint8Array]
     }
   },
-  body: 'que mas informacion tienes ?',
-  from: '573136262093'
+  verifiedBizName: 'Glow Store',
+  body: 'Hola',
+  from: '573332814840'
 }
 [handleMsg]:  {
   key: {
-    remoteJid: '573136262093@s.whatsapp.net',
+    remoteJid: '573332814840@s.whatsapp.net',
     fromMe: false,
-    id: '3EB07F5D76A206775056E4',
+    id: '3A48323928201515B368',
     participant: undefined
   },
-  messageTimestamp: 1729787868,
-  pushName: 'Nancy Cubaque',
+  messageTimestamp: 1729802941,
+  pushName: 'Glow Store',
   broadcast: false,
   message: Message {
-    extendedTextMessage: ExtendedTextMessage {
-      text: 'glow store',
-      contextInfo: [ContextInfo],
-      inviteLinkGroupTypeV2: 0
-    },
+    conversation: 'Welcome',
     messageContextInfo: MessageContextInfo {
       deviceListMetadata: [DeviceListMetadata],
       deviceListMetadataVersion: 2,
       messageSecret: [Uint8Array]
     }
   },
-  body: 'glow store',
-  from: '573136262093'
+  verifiedBizName: 'Glow Store',
+  body: 'Welcome',
+  from: '573332814840'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573332814840@s.whatsapp.net',
+    fromMe: false,
+    id: '3A870B25989FC52A9C19',
+    participant: undefined
+  },
+  messageTimestamp: 1729802979,
+  pushName: 'Glow Store',
+  broadcast: false,
+  message: Message {
+    conversation: 'Quiero más información',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Glow Store',
+  body: 'Quiero más información',
+  from: '573332814840'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573332814840@s.whatsapp.net',
+    fromMe: false,
+    id: '3A070D0BAE8E67590024',
+    participant: undefined
+  },
+  messageTimestamp: 1729802988,
+  pushName: 'Glow Store',
+  broadcast: false,
+  message: Message {
+    conversation: 'Glow store',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Glow Store',
+  body: 'Glow store',
+  from: '573332814840'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_9df46bf4-6486-479f-866f-e49a0a7c2da9',
-  keyword: 'key_f91023db-7714-405a-8462-f005f8074a72',
+  ref: 'ans_c535f30b-7260-440e-b34a-2bbae3cc5c0d',
+  keyword: 'key_0208db57-1cdf-4807-b2f5-6a07b17b0a70',
   answer: 'Bienvenido a Glow Store , Soy Sandra. Estaré encantada de ayudarte,\n' +
     'elige  una de las opciones para continuar;\n' +
     '\n' +
@@ -146,47 +176,93 @@
     keyword: {},
     callback: true
   },
-  refSerialize: 'da4544265c051f3983b0277958bd4d04'
+  refSerialize: 'bac160827d3716a5c171f1ec0ffc08dc'
 }
 [handleMsg]:  {
   key: {
-    remoteJid: '573004254639@s.whatsapp.net',
+    remoteJid: '573332814840@s.whatsapp.net',
     fromMe: false,
-    id: '3A01064EF5398896FAF7',
+    id: '3AE8603B0F8753CC08D0',
     participant: undefined
   },
-  messageTimestamp: 1729788158,
-  pushName: '⠀',
+  messageTimestamp: 1729802993,
+  pushName: 'Glow Store',
   broadcast: false,
   message: Message {
-    conversation: 'Es por la esencia',
+    conversation: '1',
     messageContextInfo: MessageContextInfo {
       deviceListMetadata: [DeviceListMetadata],
       deviceListMetadataVersion: 2,
       messageSecret: [Uint8Array]
     }
   },
-  body: 'Es por la esencia',
-  from: '573004254639'
+  verifiedBizName: 'Glow Store',
+  body: '1',
+  from: '573332814840'
 }
 [handleMsg]:  {
   key: {
-    remoteJid: '573004254639@s.whatsapp.net',
+    remoteJid: '573332814840@s.whatsapp.net',
     fromMe: false,
-    id: '3A2518F87501EFF95C98',
+    id: '3ACD4E1F8ACD5ECD185C',
     participant: undefined
   },
-  messageTimestamp: 1729788164,
-  pushName: '⠀',
+  messageTimestamp: 1729802998,
+  pushName: 'Glow Store',
   broadcast: false,
   message: Message {
-    conversation: 'Y por qué se mk ma tiene a las carreras',
+    conversation: '1',
     messageContextInfo: MessageContextInfo {
       deviceListMetadata: [DeviceListMetadata],
       deviceListMetadataVersion: 2,
       messageSecret: [Uint8Array]
     }
   },
-  body: 'Y por qué se mk ma tiene a las carreras',
-  from: '573004254639'
+  verifiedBizName: 'Glow Store',
+  body: '1',
+  from: '573332814840'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573332814840@s.whatsapp.net',
+    fromMe: false,
+    id: '3AA7D222CBAA359CC74A',
+    participant: undefined
+  },
+  messageTimestamp: 1729803013,
+  pushName: 'Glow Store',
+  broadcast: false,
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Glow Store',
+  body: '2',
+  from: '573332814840'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573332814840@s.whatsapp.net',
+    fromMe: false,
+    id: '3A526080018C8DEE21AB',
+    participant: undefined
+  },
+  messageTimestamp: 1729803018,
+  pushName: 'Glow Store',
+  broadcast: false,
+  message: Message {
+    conversation: '3',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Glow Store',
+  body: '3',
+  from: '573332814840'
 }

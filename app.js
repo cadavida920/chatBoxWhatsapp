@@ -35,6 +35,33 @@ const flowMenuRest = addKeyword(EVENTS.ACTION)
     .addAnswer('Tapete De Agua Sensorial Para Bebes', {
         media: "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1242242/1727221083WhatsApp%20Image%202024-09-24%20at%206.30.07%20PM.jpeg"
     })
+    .addAnswer(
+        menu,
+        { capture: true },
+        async (ctx, { gotoFlow, fallBack, flowDynamic }) => {
+            console.log("entro");
+            if (!["1", "2", "3", "0"].includes(ctx.body)) {
+                return fallBack(
+                    "Respuesta no valida, por favor selecciona una de las opciones."
+                );
+            }
+            switch (ctx.body) {
+                case "1":
+                    return gotoFlow(flowMenuRest);
+                case "2":
+                    return gotoFlow(flowReservas);
+                case "3":
+                    return gotoFlow(flowConsultas);
+    
+                case "0":
+                    console.log("salir");
+                    return await flowDynamic(
+                        "Saliendo.. Puedes volver a acceder a este menu escribiendo '*Menu*'"
+                    );
+            }
+        }
+    )
+    
 
 const flowReservas = addKeyword(EVENTS.ACTION)
     .addAnswer('Libro De Estudio Con Sonido Para Ninos', {
